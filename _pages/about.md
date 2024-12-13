@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior Computer Science undergrad at New York University, working with [Prof. Dennis Shasha](https://cs.nyu.edu/~shasha/). I'm broadly interested in distributed systems, high-performance computing, cloud, and systems for machine learning.
+I'm a senior Computer Science undergrad at New York University, working with [Prof. Dennis Shasha](https://cs.nyu.edu/~shasha/) on implementing a scalable blockchain design based on the book [High Performance, Low Energy, and Trustworthy Blockchains Using Satellites](https://www.nowpublishers.com/article/Details/NET-070). I'm broadly interested in distributed systems, high-performance computing, cloud, and systems for machine learning.
 
 ### News
 - Sept 2024: Joining as a Teaching Assistant (grader) for the Big Data Application Development course in Fall 2024!
